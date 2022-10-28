@@ -1,2 +1,2 @@
 # django-proflie
-Creating Your Profile Using Django Framework
+Creating a web Profile Using Django Framework
